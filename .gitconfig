@@ -1,0 +1,6 @@
+[safe]
+	directory = /storage/emulated/0/Download/FeatherCore
+	directory = /data/data/com.termux/files/home/storage/downloads/FeatherCore
+[user]
+	email = youremail@example.com
+	name = Rootflux
