@@ -83,11 +83,4 @@ Contributions are welcome. This project prioritizes clarity and accessibility. P
 
 License
 
-This project is licensed under the MIT License.
-
-
----
-
-Philosophy
-
-The goal is not to teach everything—it's to give junior developers the tools and structure to confidently build, break, and learn in a clean sandbox environment. Build here. Then build bigger.
+This project is licensed under the MIT License. 
